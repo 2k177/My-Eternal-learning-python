@@ -9,3 +9,4 @@ Topics in Stack for now:
 4. Oops
 5. Pytest
 6. Click
+7. Web-scraping
