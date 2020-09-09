@@ -10,3 +10,4 @@ Topics in Stack for now:
 5. Pytest
 6. Click
 7. Web-scraping
+8. Flask api
