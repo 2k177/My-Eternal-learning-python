@@ -12,7 +12,7 @@ ref : https://click.palletsprojects.com/en/7.x/
 click_group.py 
 #### Output:
 
-""" click_group.py
+click_group.py
 Usage: click_group.py [OPTIONS] COMMAND [ARGS]...
 
 Options:
@@ -22,13 +22,13 @@ Options:
 Commands:
   sync 
 
-C:\DS\click_complete>python click_group.py --debug sync
-Debug mode is on 
-Synching  """
+C:\DS\click_complete>python click_group.py --debug sync\
+Debug mode is on\
+Synching\
 ------------------------------------------------------------------------
 ## Description:
-1. The callback fires whenever a subcommand fires.
-2. An outer command runs when an inner command runs
+1. The callback fires whenever a subcommand fires.<br />
+2. An outer command runs when an inner command runs<br />
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
