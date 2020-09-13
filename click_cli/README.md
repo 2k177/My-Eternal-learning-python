@@ -1,7 +1,10 @@
-## Click Python Module
+# Click Python Module
+
 In this section, i have tried few repeatedly used Click implementations.
 Using click,a command line Interface is created for getting the data from the API and store it in the config file(api_click.py).
+
 ref : https://click.palletsprojects.com/en/7.x/
+
 ------------------------------------------------------------------------
 ## Commands and Groups
 ### Callback Invocation
@@ -9,23 +12,23 @@ ref : https://click.palletsprojects.com/en/7.x/
 click_group.py 
 #### Output:
 
-click_group.py
-Usage: tool.py [OPTIONS] COMMAND [ARGS]...
+""" click_group.py
+Usage: click_group.py [OPTIONS] COMMAND [ARGS]...
 
 Options:
   --debug / --no-debug
   --help                Show this message and exit.
 
 Commands:
-  sync
-------------------------------------------------------------------------
+  sync 
+
 C:\DS\click_complete>python click_group.py --debug sync
-Debug mode is on
-Synching
+Debug mode is on 
+Synching  """
 ------------------------------------------------------------------------
 ## Description:
-->  the callback fires whenever a subcommand fires.
-->  An outer command runs when an inner command runs
+1. The callback fires whenever a subcommand fires.
+2. An outer command runs when an inner command runs
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
 
