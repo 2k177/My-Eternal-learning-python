@@ -5,7 +5,7 @@ parametrize a single test definition, and pytest will create variants of the tes
 ## parameterisedPytest
 ```
 
-dux@dux-MOBL MINGW64 /c/DS/pytest/parameterisedPytest
+userx-MOBL MINGW64 /c/DS/pytest/parameterisedPytest
 $ pytest
 ==================================================================================================== test session starts =====================================================================================================
 platform win32 -- Python 3.8.3, pytest-6.0.1, py-1.9.0, pluggy-0.13.1
