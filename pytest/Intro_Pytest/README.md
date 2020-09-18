@@ -17,5 +17,5 @@ test_mathlib.py ..                                                              
 ===================================================================================================== 2 passed in 0.59s ======================================================================================================
 
 ```
-pytest finds the function with test_ as profix and start executing the function.
+pytest finds the function with test_ as prefix and start executing the function.
 
