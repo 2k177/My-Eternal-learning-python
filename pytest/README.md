@@ -1,8 +1,8 @@
 # Install pytest 
 ``` python -m pip install pytest ```
 ## Less Boilerplate
-1. Arrange, or set up, the conditions for the test\
-2. Act by calling some function or method\
+1. Arrange, or set up, the conditions for the test
+2. Act by calling some function or method
 3. Assert that some end condition is true
 
 ## Output format:
