@@ -12,3 +12,4 @@ Topics in Stack for now:
 7. Web-scraping
 8. Flask api
 9. Flask + MongoDB
+10. Decorators
