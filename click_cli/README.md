@@ -91,7 +91,7 @@ Debug is on
 1. Each time a command is invoked, a new context is created and linked with the parent context.
 2. Contexts are passed to parameter callbacks together with the value automatically.
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 
 
