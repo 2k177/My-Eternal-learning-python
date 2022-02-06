@@ -1,4 +1,4 @@
-# My-experiment-with-python
+# My-Eternal-learning
 ## Intro
 Am insterested in putting all my eternal learning in here at GitHub. It contains some of my Learnings under different topic which i felt interesting. Some small projects out of the concepts grasped, Obviously it will contain some of boilerplates..Peace.
 
