@@ -14,3 +14,4 @@ Topics in Stack for now:
 9. Flask + MongoDB
 10. Decorators
 11. FASTAPI
+12. Pandas
